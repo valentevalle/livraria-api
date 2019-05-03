@@ -15,3 +15,4 @@ Os testes de repositório e serviço estão disponíveis na própria aplicação
 - Spring Boot; 
 - Spring Data para mapeamento Objeto Relacional utilizando especificação JPA; 
 - flywaydb para crição de tabelas e inserção de dados iniciais no banco de dados;
+- Postgresql 
